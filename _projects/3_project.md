@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machining a Small Cycloidal Gearbox
+title: Compact Cycloidal Gearbox
 description: A comprehensive guide to designing and machining a compact cycloidal gearbox, showcasing the intricacies and processes involved.
 img: assets/img/cycloidal_gearbox_bg.jpg
 importance: 2
@@ -55,8 +55,8 @@ Using **CAD software** (e.g., SolidWorks, Fusion 360), I modeled the gearbox par
 
 After finalizing the design, the next step was machining the components. The process included:
 
-1. **Material Selection**: I used **aluminum alloy** for its excellent machinability and strength-to-weight ratio.
-2. **CNC Milling**: The components were machined using CNC milling for precision. Key operations included:
+1. **Material Selection**: I used **6061** for its excellent machinability and rigidity.
+2. **CNC Milling**: The components were machined using my desktop CNC machine. Key operations included:
    - **Face milling** for flat surfaces.
    - **Pocket milling** for the cycloidal discs.
 
@@ -66,6 +66,9 @@ After finalizing the design, the next step was machining the components. The pro
     </div>
     <div class="col-sm-6 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining2.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/fixture.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
