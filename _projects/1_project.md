@@ -2,7 +2,7 @@
 layout: page
 title: 3D Printed F1 Steering Wheel Replica
 description: A detailed guide to designing, 3D printing, and assembling a replica Formula 1 steering wheel.
-img: assets/img/f1_wheel_bg.jpg
+img: assets/img/f1wheel.jpg
 importance: 3
 category: 3d-printing
 giscus_comments: true
