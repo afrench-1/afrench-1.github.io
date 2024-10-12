@@ -28,7 +28,22 @@ I started with the schematic design using software such as KiCad, Altium, or Eag
         {% include figure.liquid loading="eager" path="assets/img/pcb_layout.jpg" title="PCB Layout in CAD" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pcb_prototype.jpg" title="Assembled PCB Prototype" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/BLDC3dview.jpg" title="Assembled PCB Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    On the left: The schematic design. In the middle: The PCB layout in CAD software. On the right: The assembled PCB prototype ready for testing.
+</div>
+
+### Ordering PCBs from PCB Manufacturer 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JLCPCB0.jpg" title="PCB Order" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JLCPCB.jpg" title="PCB Order" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
