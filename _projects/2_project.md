@@ -4,7 +4,7 @@ title: PCB Electronics Project
 description: A showcase of my custom PCB design and development process.
 img: assets/img/pcb_bg.jpg
 importance: 3
-category: work
+category: electronics
 giscus_comments: true
 ---
 
