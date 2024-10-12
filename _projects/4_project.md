@@ -3,8 +3,8 @@ layout: page
 title: Custom 3D Printer Build
 description: A step-by-step guide to building your own 3D printer
 img: 3dp1.jpg
-importance: 5
-category: DIY
+importance: 3
+category: 3d-printing
 ---
 
 Building your own custom 3D printer is both a rewarding and challenging experience. In this guide, we’ll walk through the critical steps involved in the process—from designing the frame to calibrating the printer and achieving high-quality prints.

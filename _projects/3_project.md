@@ -76,6 +76,21 @@ After finalizing the design, the next step was machining the components. The pro
     Left: CNC milling in action. Right: The machined components, ready for assembly.
 </div>
 
+<div class="row">
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/threadmill0.jpg" title="CNC Milling Process" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/threadmill1.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/threadmill2.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption text-center mt-2">
+    Left: Drilling 1.6mm hole. Right: Thread milled holes at M2.
+</div>
 ---
 
 ## Assembly
@@ -99,6 +114,14 @@ Once all components were machined, I proceeded to assemble the gearbox. The asse
     Left: Assembling the gearbox components. Right: The complete cycloidal gearbox ready for testing.
 </div>
 
+<div class="row">
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly1.jpg" title="Assembling the Gearbox" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly2.jpg" title="Complete Gearbox Assembly" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ---
 
 ## Testing and Performance Evaluation
