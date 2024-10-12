@@ -1,12 +1,13 @@
 ---
 layout: page
-title: PCB Electronics Project
-description: A showcase of my custom PCB design and development process.
+title: BLDC 50A Driver
+description: A Field-oriented-control brushless DC motor controller. 
 img: assets/img/pcb_bg.jpg
 importance: 3
 category: electronics
 giscus_comments: true
 ---
+**Disclaimer** this drive design was created by Thomas Godden, check out his <a href="https://github.com/LegoYoda112/BLDC_Driver">github</a>.
 
 ## PCB Electronics Project Overview
 
