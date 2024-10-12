@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore a collection of innovative, hands-on projects where I experiment, learn, and refine my skills through creative problem-solving and exploration.
 nav: true
 nav_order: 3
 display_categories: [robotics, electronics, 3d-printing, mechanical]
