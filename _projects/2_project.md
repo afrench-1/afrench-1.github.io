@@ -1,79 +1,106 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: PCB Electronics Project
+description: A showcase of my custom PCB design and development process.
+img: assets/img/pcb_bg.jpg
+importance: 3
+category: electronics
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## PCB Electronics Project Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this project, I designed and developed a custom printed circuit board (PCB) for a [specific function like power management, signal processing, etc.]. The aim was to create a high-performance, compact, and reliable PCB for use in various electronic applications.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project involved schematic design, component selection, PCB layout, prototyping, and testing. Below are the highlights of the process with images showcasing each step.
+
+### Design Process
+
+I started with the schematic design using software such as KiCad, Altium, or Eagle. Component selection was critical to ensure the best performance while minimizing space and cost. After finalizing the design, I laid out the PCB tracks and performed design rule checks to make sure there were no errors before manufacturing.
+
+### Images of PCB Design & Development
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pcb_schematic.jpg" title="PCB Schematic Design" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pcb_layout.jpg" title="PCB Layout in CAD" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pcb_prototype.jpg" title="Assembled PCB Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<div class="caption">
+    On the left: The schematic design. In the middle: The PCB layout in CAD software. On the right: The assembled PCB prototype ready for testing.
+</div>
+
+### Testing and Results
+
+After assembling the PCB, I conducted several tests to ensure the board was functioning correctly. I used [testing methods, e.g., multimeter for continuity tests, oscilloscope for signal integrity, etc.].
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pcb_testing.jpg" title="PCB Testing with Multimeter" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pcb_oscilloscope.jpg" title="Oscilloscope Measuring Signals" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Left: Continuity testing with a multimeter. Right: Signal integrity measured using an oscilloscope.
+</div>
+
+### Final Thoughts
+
+This project provided valuable insights into PCB design and electronics engineering. From schematic design to prototype testing, it reinforced the importance of careful planning and thorough testing.
+
+---
+
+#### Key Features of this Project:
+
+- **Software Used**: [KiCad/Altium/Eagle]
+- **PCB Layers**: [2-layer/4-layer]
+- **Applications**: [E.g., Power supply design, microcontroller board, signal processing]
+- **Challenges**: [Any challenges faced, e.g., thermal management, signal noise, etc.]
+
+Feel free to explore the images, code, and more details in the repository.
+
+---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pcb_final.jpg" title="Final Assembled PCB" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pcb_closeup.jpg" title="Close-up of PCB" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Final assembled PCB in the enclosure. Right: Close-up view of the traces and components on the PCB.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Leave Your Feedback
+
+Please share your feedback or ask questions using the comments section below!
+
+---
+
+### Code and Schematics
+
+The design files and firmware for this PCB are available on [GitHub link] or another repository platform for download.
 
 {% raw %}
-
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/pcb_final.jpg" title="Final Assembled PCB" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/pcb_closeup.jpg" title="Close-up of PCB" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 ```
