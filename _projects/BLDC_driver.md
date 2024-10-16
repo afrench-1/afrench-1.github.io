@@ -7,7 +7,8 @@ importance: 3
 category: electronics
 giscus_comments: true
 ---
-**Disclaimer** this drive design was created by Thomas Godden, check out his <a href="https://github.com/LegoYoda112/BLDC_Driver">github</a>.
+> [!NOTE]
+> **Disclaimer** this drive design was created by Thomas Godden, check out his <a href="https://github.com/LegoYoda112/BLDC_Driver">github</a>.
 
 ## PCB Electronics Project Overview
 
