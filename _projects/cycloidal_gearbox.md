@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Compact Cycloidal Gearbox
+date: 2024-10-10 00:00:00
 description: A comprehensive guide to designing and machining a compact cycloidal gearbox, showcasing the intricacies and processes involved.
 img: assets/img/cycloidal_gearbox_bg.jpg
 importance: 2
