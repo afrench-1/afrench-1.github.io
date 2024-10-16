@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Custom 3D Printer Build
-description: A step-by-step guide to building your own 3D printer
+description: Custom 300x300 3D printer
 img: assets/img/3dp1.jpg
 importance: 3
 category: 3d-printing
@@ -10,103 +10,6 @@ category: 3d-printing
 Building your own custom 3D printer is both a rewarding and challenging experience. In this guide, we’ll walk through the critical steps involved in the process—from designing the frame to calibrating the printer and achieving high-quality prints.
 
 Let’s begin by looking at the structure and components that make this custom build unique.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3dp2.jpg" title="Frame Design" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3dp3.jpg" title="Frame Assembly" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3dp4.jpg" title="Completed Frame" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: The frame design sketch. Middle: The assembly process. Right: The completed printer frame.
-</div>
-
-## Electronics and Wiring
-
-For this build, we chose a Raspberry Pi controller paired with Marlin firmware. Precision and organization were key, especially when wiring the stepper motors and sensors for accuracy.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/electronics_setup.jpg" title="Electronics Setup" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wiring.jpg" title="Wiring" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pi_controller.jpg" title="Raspberry Pi Controller" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: The electronics being set up. Middle: Wiring organization. Right: Raspberry Pi controller ready for action.
-</div>
-
-## Hotend and Extruder
-
-We opted for a direct-drive extruder to handle flexible filaments. The all-metal hotend allows printing with high-temperature materials such as ABS and Nylon.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/hotend_extruder.jpg" title="Hotend and Extruder" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/extruder_installation.jpg" title="Installing the Extruder" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Hotend and extruder setup. Right: Installation of the extruder on the printer.
-</div>
-
-## Calibration and First Print
-
-Once assembled, calibration is key. We used bed leveling sensors and printed a variety of calibration patterns to dial in the settings. Finally, the first print was a success!
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bed_leveling.jpg" title="Bed Leveling" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/calibration_print.jpg" title="Calibration Print" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/first_print.jpg" title="First Successful Print" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Bed leveling in progress. Middle: A calibration print. Right: The first successful print!
-</div>
-
-## Conclusion
-
-Building a custom 3D printer requires patience and precision, but the results are incredibly rewarding. With this guide, you’re on your way to designing and printing custom parts with your new machine.
-
-This code structure mirrors the layout and style you requested, while showcasing a step-by-step custom 3D printer build. Just replace the image paths with actual assets, and it will be ready to go!
-
-
-
-
-
-
-You said:
-make the formatting more interesting and professional looking
-ChatGPT said:
-ChatGPT
-Here’s a more professional and polished version of your custom 3D printer project page, with some formatting improvements to make it visually appealing and interesting. I’ve added section headers, better use of layout techniques, and enhanced captions to make it more structured and engaging.
-
-html
-Copy code
----
-layout: page
-title: Custom 3D Printer Build
-description: A step-by-step guide to building your own 3D printer
-img:
-importance: 5
-category: DIY
----
 
 # Custom 3D Printer Build
 
@@ -135,17 +38,17 @@ The frame is constructed using **aluminum extrusions**, providing a lightweight 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frame_design.jpg" title="3D Printer Frame Design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3dp2.jpg" title="Frame Design" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frame_assembly.jpg" title="Frame Assembly Process" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3dp3.jpg" title="Frame Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frame_completed.jpg" title="Completed Printer Frame" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3dp4.jpg" title="Completed Frame" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption mt-2 text-center">
-    <strong>Left:</strong> Initial frame design blueprint. <strong>Middle:</strong> Assembling the aluminum extrusions. <strong>Right:</strong> Completed frame, ready for electronics.
+<div class="caption">
+    Left: The frame design sketch. Middle: The assembly process. Right: The completed printer frame.
 </div>
 
 ---
