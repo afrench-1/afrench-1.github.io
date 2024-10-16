@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Manufacturing process engineer**
+subtitle: Manufacturing process engineer
 
 profile:
   align: right
