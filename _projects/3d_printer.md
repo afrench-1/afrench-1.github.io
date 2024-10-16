@@ -2,7 +2,7 @@
 layout: page
 title: Custom 3D Printer Build
 description: A step-by-step guide to building your own 3D printer
-img: assets/img/3dp1.jpg
+img: 3dp1.jpg
 importance: 3
 category: 3d-printing
 ---
