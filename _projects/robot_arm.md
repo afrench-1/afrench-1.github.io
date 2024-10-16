@@ -4,7 +4,7 @@ title: 6-axis robotic arm
 date: 2017-11-10 00:00:00
 description: Robot arm.
 img: assets/img/f1wheel.jpg
-importance: 5
+importance: 3
 category: robotics
 giscus_comments: true
 ---
