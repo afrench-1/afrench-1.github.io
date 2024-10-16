@@ -27,7 +27,7 @@ layout: default
       {% if url_beginning == '/blog/' %}
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
       {% else %}
-        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+        <i class="fa-solid fa-calendar fa-sm"></i> {{ page.date | date: '%B %d, %Y' }}
       {% endif %}
       {% if tags != '' %}
         &nbsp; &middot; &nbsp;
