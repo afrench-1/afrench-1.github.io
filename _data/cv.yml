@@ -15,13 +15,17 @@
       institution: Univeristy of Warwick, Coventry, United Kingdom
       year: 2024
       description:
-        - Bachelor of Engineering (with honours)
-        -Dissertation: "How can automotive manufacturing waste plastics be recycled to create eco-friendly materials for 3D printing applications in product development?"
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Level 2 Diploma in Advanced Manufacturing Engineering 
       institution: Warwickshire College, Leamington Spa
       year: 2020
       description:
-        The EAL Level 2 Diploma in Advanced Manufacturing Engineering (Foundation Competence).
+        The EAL Level 2 Diploma in Advanced Manufacturing Engineering (Foundation Competence) qualification covers the specific skills, knowledge, and behaviours for a range of aerospace and aviation engineering disciplines which have been developed in consultation with sector industry specialists and training providers.
 
 - title: Experience
   type: time_table
