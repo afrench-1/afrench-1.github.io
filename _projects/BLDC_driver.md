@@ -2,7 +2,7 @@
 layout: page
 title: BLDC 50A Driver
 description: A Field-oriented-control brushless DC motor controller. 
-img: assets/img/BLDC3dview.jpg
+img: assets/img/pcb_bg.jpg
 importance: 3
 category: electronics
 giscus_comments: true
