@@ -14,7 +14,7 @@
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
-	<a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+	<a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ page.date | date: '%B %d, %Y' }} </a>
 
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
