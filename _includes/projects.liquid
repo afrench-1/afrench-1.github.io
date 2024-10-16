@@ -1,7 +1,3 @@
-{% assign year = page.date | date: '%Y' %}
-{% assign tags = page.tags | join: '' %}
-{% assign categories = page.categories | join: '' %}
-
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card h-100 hoverable">
@@ -18,7 +14,7 @@
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
-	<i class="fa-solid fa-calendar fa-sm"></i> {{ page.date | date: '%B %d, %Y' }} </a>
+	<a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ page.date | date: '%B %d, %Y' }} </a>
 
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
