@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: BLDC 50A Driver
+date: 2024-10-10 00:00:00
 description: A Field-oriented-control brushless DC motor controller. 
 img: assets/img/BLDC3dview.jpg
 importance: 3
