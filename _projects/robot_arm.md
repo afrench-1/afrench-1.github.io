@@ -2,7 +2,7 @@
 layout: post
 title: 6-axis robotic arm
 date: 2017-11-10 00:00:00
-description: 6-axis robot arm.<i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+description: 6-axis robot arm. <br /> <i class="fa-solid fa-calendar fa-sm"></i> 2017
 img: assets/img/robotthumb.jpg
 importance: 3
 category: robotics
