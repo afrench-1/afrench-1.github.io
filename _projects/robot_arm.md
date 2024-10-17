@@ -3,7 +3,7 @@ layout: post
 title: 6-axis robotic arm
 date: 2017-11-10 00:00:00
 description: Robot arm.
-img: assets/img/robot1.jpg
+img: assets/img/robotthumb.jpg
 importance: 3
 category: robotics
 giscus_comments: true
@@ -35,13 +35,13 @@ The first step was creating a 3D model of the F1 steering wheel. I used [Fusion 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_modeling.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot3.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_slicing.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot4.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_printing.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot5.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -57,10 +57,10 @@ After printing, I sanded and painted the parts to give them a smooth, profession
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_assembly.jpg" title="Assembling the 3D Printed Parts" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot6.jpg" title="Assembling the 3D Printed Parts" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_sanding.jpg" title="Sanding and Painting the Parts" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot7.jpg" title="Sanding and Painting the Parts" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -74,10 +74,10 @@ For the buttons and dials, I used basic electronics to create a functional steer
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_electronics.jpg" title="Wiring Electronics into the Wheel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot8.jpg" title="Wiring Electronics into the Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_final.jpg" title="Completed 3D Printed F1 Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robot9.jpg" title="Completed 3D Printed F1 Steering Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -104,10 +104,10 @@ Feel free to explore the images and project files below. The 3D models and assem
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/f1_wheel_display.jpg" title="Final 3D Printed Steering Wheel on Display" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robot10.jpg" title="Final 3D Printed Steering Wheel on Display" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/f1_wheel_detail.jpg" title="Close-up of Buttons and Dials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robot11.jpg" title="Close-up of Buttons and Dials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
