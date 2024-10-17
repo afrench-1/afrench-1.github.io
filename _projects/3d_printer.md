@@ -2,7 +2,7 @@
 layout: page
 title: Custom 3D Printer Build
 date: 2020-09-28 11:12:00-0400
-description: Custom 300x300 3D printer
+description: Custom 300x300 FFF 3D printer. ###<br /> <i class="fa-solid fa-calendar fa-sm"></i> 2020
 img: assets/img/3dp1.jpg
 importance: 3
 category: 3d-printing
