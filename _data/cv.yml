@@ -54,16 +54,15 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
+- title: 
+  type: 
   contents:
-    - year: 1929
+    - year: 
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        
+    - year: 
       items:
-        - Max Planck Medal
+        
 
 - title: Academic Interests
   type: nested_list
