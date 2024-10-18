@@ -54,16 +54,6 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: 
-  type: 
-  contents:
-    - year: 
-      items:
-        
-    - year: 
-      items:
-        
-
 - title: Academic Interests
   type: nested_list
   contents:
