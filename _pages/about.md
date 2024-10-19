@@ -62,6 +62,7 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
       background-size: cover;
       width: 300px;
       height: 300px;
+      border-radius: .25px;
     }
 
     .swiper-slide img {
