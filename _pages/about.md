@@ -62,3 +62,11 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     },
   });
 </script>
+
+<style>
+  .swiper-slide img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+  }
+</style>
