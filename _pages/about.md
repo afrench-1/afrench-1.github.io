@@ -27,3 +27,45 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+
+<!-- Add Swiper CSS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/swiper/swiper-bundle.min.css"
+/>
+
+<!-- Swiper -->
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="https://via.placeholder.com/300x200" alt="Slide 1"/></div>
+    <div class="swiper-slide"><img src="https://via.placeholder.com/300x200" alt="Slide 2"/></div>
+    <div class="swiper-slide"><img src="https://via.placeholder.com/300x200" alt="Slide 3"/></div>
+    <div class="swiper-slide"><img src="https://via.placeholder.com/300x200" alt="Slide 4"/></div>
+    <div class="swiper-slide"><img src="https://via.placeholder.com/300x200" alt="Slide 5"/></div>
+  </div>
+  <!-- Add Pagination -->
+  <div class="swiper-pagination"></div>
+</div>
+
+<!-- Add Swiper JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<!-- Initialize Swiper with Coverflow effect -->
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    effect: 'coverflow',
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: 'auto',
+    coverflowEffect: {
+      rotate: 50,
+      stretch: 0,
+      depth: 100,
+      modifier: 1,
+      slideShadows: true,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+    },
+  });
+</script>
