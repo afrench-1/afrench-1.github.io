@@ -45,10 +45,11 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
       padding: 0;
     }
 
-    .swiper {
+    .swiper-container {
       width: 100%;
       padding-top: 50px;
       padding-bottom: 50px;
+      overflow: hidden
     }
 
     .swiper-slide {
@@ -61,7 +62,6 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     .swiper-slide img {
       display: block;
       width: 100%;
-      overflow: hidden;
     }
   </style>
 </head>
