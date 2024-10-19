@@ -46,7 +46,7 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     }
 
     .swiper-container {
-      width: 80%; /* Make the container narrower to allow slides to peek */
+      width: 50%; /* Make the container narrower to allow slides to peek */
       padding-top: 50px;
       padding-bottom: 50px;
       overflow: visible; /* Allow overflow to show part of adjacent slides */
