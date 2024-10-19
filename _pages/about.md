@@ -78,28 +78,28 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
   <div class="swiper-wrapper">
       <!-- Each image wrapped in a clickable <a> tag with link to a project -->
       <div class="swiper-slide">
+        <a href="https://afrench-1.github.io/projects/robot_arm/" target="_blank">
+          <img src="assets/img/robotthumb.jpg" alt="F1 Wheel" />
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://afrench-1.github.io/projects/3d_printer/" target="_blank">
+          <img src="assets/img/3dp1.jpg" alt="3d printer" />
+        </a>
+      </div>
+      <div class="swiper-slide">
         <a href="https://afrench-1.github.io/projects/F1_steering_wheel/" target="_blank">
-          <img src="assets/img/f1wheel.jpg" alt="F1 Wheel" />
+          <img src="assets/img/f1wheel.jpg" alt="Project 3" />
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://example.com/project2" target="_blank">
-          <img src="assets/img/8.jpg" alt="Project 2" />
+        <a href="https://afrench-1.github.io/projects/cycloidal_gearbox/" target="_blank">
+          <img src="assets/img/cycloidal_gearbox_bg.jpg" alt="cycloidal_gearbox" />
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://example.com/project3" target="_blank">
-          <img src="assets/img/9.jpg" alt="Project 3" />
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://example.com/project4" target="_blank">
-          <img src="assets/img/10.jpg" alt="Project 4" />
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://example.com/project5" target="_blank">
-          <img src="assets/img/12.jpg" alt="Project 5" />
+        <a href="https://afrench-1.github.io/projects/BLDC_driver/" target="_blank">
+          <img src="assets/img/BLDC3dview.jpg" alt="BLDC driver" />
         </a>
       </div>
     </div>
@@ -117,6 +117,8 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     grabCursor: true,
     centeredSlides: true,
     slidesPerView: 'auto',
+    loop: true,
+    initialSlide: 2,
     coverflowEffect: {
       rotate: 50,
       stretch: 0,
