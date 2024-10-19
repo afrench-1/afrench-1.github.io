@@ -69,6 +69,10 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
       display: block;
       width: 100%;
     }
+
+    .swiper-pagination-bullet-active {
+      background-color: #007bff; /* Active dot color (blue) */
+    }
   </style>
 </head>
 
