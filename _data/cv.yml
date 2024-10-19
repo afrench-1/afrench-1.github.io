@@ -11,16 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: BEng
+    - title: Applied Engineering, BEng (with honours)
       institution: Univeristy of Warwick, Coventry, United Kingdom
       year: 2024
       description:
-        - Description 1.
+        - Manufacturing pathway
         - Description 2.
-        - title: Description 3.
+        - title: Dissertaion
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - "How can automotive manufacturing waste plastics be recycled to create eco-friendly materials for 3D printing applications in product development?"
     - title: Level 2 Diploma in Advanced Manufacturing Engineering 
       institution: Warwickshire College, Leamington Spa
       year: 2020
