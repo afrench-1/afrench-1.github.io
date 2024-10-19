@@ -16,8 +16,7 @@
       year: 2024
       description:
         - Manufacturing pathway
-        - Description 2.
-        - title: Dissertation:
+        - title: 'Dissertation:'
           contents:
             - '"How can automotive manufacturing waste plastics be recycled to create eco-friendly materials for 3D printing applications in product development?"'
     - title: Level 2 Diploma in Advanced Manufacturing Engineering 
@@ -32,16 +31,18 @@
     - title: Manufacturing Process Engineer
       institution: Jaguar Land Rover, United Kingdom
       year: 2024 - present
-      description: Skills:
-        - contents:
-          - Process Development (Standardised process documentation GSPAS, Process Designer)
-          - Design for Manufacturing (DFM, DFA and feasibility)
-          - Engineering part releases and change management (iCreate, WERS (Part releasing system)) 
-          - Quality focus (PFMEA, SCSS (Critical/Significant Characteristic) Cascades, Development of Control Plans)
-          - Continuous Improvement (Six Sigma, PCDA, 5S, 5Whys)
-          - Cross-functional collaboration (Agile Squads working in sprints) 
-          - Agile working (JIRA, Confluence, Tableau) 
-          - CAD (Siemens Teamcentre, Dassault 3DExperience) 
+      description:
+        - Manufacturing pathway
+        - title: 'Dissertation:'
+          contents:
+            - Process Development (Standardised process documentation GSPAS, Process Designer)
+            - Design for Manufacturing (DFM, DFA and feasibility)
+            - Engineering part releases and change management (iCreate, WERS (Part releasing system)) 
+            - Quality focus (PFMEA, SCSS (Critical/Significant Characteristic) Cascades, Development of Control Plans)
+            - Continuous Improvement (Six Sigma, PCDA, 5S, 5Whys)
+            - Cross-functional collaboration (Agile Squads working in sprints) 
+            - Agile working (JIRA, Confluence, Tableau) 
+            - CAD (Siemens Teamcentre, Dassault 3DExperience) 
 
     - title: Manufacturing Process Engineer (Degree Apprentice)
       institution: Jaguar Land Rover, United Kingdom
