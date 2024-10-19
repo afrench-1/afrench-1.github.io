@@ -75,12 +75,33 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
 <!-- Swiper -->
 <div class="swiper-container">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="assets/img/9.jpg" alt="Slide 1"/></div>
-    <div class="swiper-slide"><img src="assets/img/8.jpg" alt="Slide 2"/></div>
-    <div class="swiper-slide"><img src="assets/img/9.jpg" alt="Slide 3"/></div>
-    <div class="swiper-slide"><img src="assets/img/10.jpg" alt="Slide 4"/></div>
-    <div class="swiper-slide"><img src="assets/img/12.jpg" alt="Slide 5"/></div>
-  </div>
+      <!-- Each image wrapped in a clickable <a> tag with link to a project -->
+      <div class="swiper-slide">
+        <a href="https://afrench-1.github.io/projects/F1_steering_wheel/" target="_blank">
+          <img src="assets/img/f1wheel.jpg" alt="F1 Wheel" />
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://example.com/project2" target="_blank">
+          <img src="assets/img/8.jpg" alt="Project 2" />
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://example.com/project3" target="_blank">
+          <img src="assets/img/9.jpg" alt="Project 3" />
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://example.com/project4" target="_blank">
+          <img src="assets/img/10.jpg" alt="Project 4" />
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://example.com/project5" target="_blank">
+          <img src="assets/img/12.jpg" alt="Project 5" />
+        </a>
+      </div>
+    </div>
   <!-- Add Pagination -->
   <div class="swiper-pagination"></div>
 </div>
