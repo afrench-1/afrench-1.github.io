@@ -61,6 +61,7 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     .swiper-slide img {
       display: block;
       width: 100%;
+      overflow: hidden;
     }
   </style>
 </head>
