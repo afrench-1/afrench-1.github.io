@@ -2,7 +2,7 @@
 layout: post
 title: AMG F1 Steering Wheel
 date: 2024-10-10 00:00:00
-description: A detailed guide to designing, 3D printing, and assembling a replica Formula 1 steering wheel.
+description: A detailed guide to designing, 3D printing, and assembling a replica Formula 1 steering wheel. <br /> <i class="fa-solid fa-calendar fa-sm"></i> 2022
 img: assets/img/f1wheel.jpg
 importance: 3
 category: 3d-printing

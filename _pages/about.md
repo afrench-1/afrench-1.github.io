@@ -46,10 +46,11 @@ As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from
     }
 
     .swiper-container {
-      width: 100%;
+      width: 90%; /* Make the container narrower to allow slides to peek */
       padding-top: 50px;
       padding-bottom: 50px;
-      overflow: hidden
+      overflow: visible; /* Allow overflow to show part of adjacent slides */
+      margin: 0 auto; /* Center the swiper on the page */
     }
 
     .swiper-slide {
