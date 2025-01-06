@@ -17,19 +17,26 @@ The process involved 3D modeling, 3D printing, post-processing (sanding, paintin
 
 ### Design Process
 
-The first step was creating a 3D model of the F1 steering wheel. I used [Fusion 360/Blender/SolidWorks] to model the intricate details, ensuring the layout and dimensions matched real F1 wheels as closely as possible. Once the model was finalized, I sliced it for 3D printing.
+The first step was creating a 3D model of the F1 steering wheel. I used Fusion 360 to model the details, ensuring the layout and dimensions matched real F1 wheels as closely as possible by following reference images of the W11 wheel. Once the model was finalized, I sliced it for 3D printing.
 
 ### 3D Modeling & Slicing
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_modeling.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_modeling.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_slicing.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_slicing.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_printing.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_printing.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_finishing.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 
@@ -43,12 +50,22 @@ Once the design was ready, I printed the parts using a [PLA/ABS/Carbon-fiber fil
 
 After printing, I sanded and painted the parts to give them a smooth, professional finish. Assembly followed, where I glued the components together, added the buttons and dials, and integrated basic electronics.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_assembly.jpg" title="Assembling the 3D Printed Parts" class="img-fluid rounded z-depth-1" %}
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/printed_half.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/sanded_rear.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_sanding.jpg" title="Sanding and Painting the Parts" class="img-fluid rounded z-depth-1" %}
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/paint1.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/paint2.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 
