@@ -61,14 +61,14 @@ The frame is constructed using **aluminum extrusions**, providing a lightweight 
             {% include figure.liquid loading="eager" path="assets/img/3dp6.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/3dp7.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
-        </div>
-        <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/3dp8.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3dp7.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3dp8.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
     <div class="row">
         <div class="col-md-6 mb-3">
             {% include figure.liquid loading="eager" path="assets/img/3dp9.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}

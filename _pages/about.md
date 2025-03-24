@@ -28,6 +28,11 @@ social: true # includes social icons at the bottom of the page
 </h2>
 
 <head>
+
+  <h2 style="text-align: left; margin-top: 20px; margin-bottom: 20px;">
+  <a href="/projects/" style="color: inherit">projects</a>
+  </h2>
+
   <meta charset="utf-8" />
   <title>Swiper demo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
