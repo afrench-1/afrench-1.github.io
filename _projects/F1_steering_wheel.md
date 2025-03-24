@@ -82,7 +82,7 @@ For the buttons and dials, I used basic electronics to create a functional steer
         {% include figure.liquid loading="eager" path="assets/img/f1_wheel_electronics.jpg" title="Wiring Electronics into the Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_final.jpg" title="Completed 3D Printed F1 Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/f1_wheel_electronics2.jpg" title="Completed 3D Printed F1 Steering Wheel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -98,24 +98,9 @@ Creating this 3D printed replica F1 steering wheel was a challenging yet rewardi
 
 #### Key Features of this Project:
 
-- **Software Used**: [Fusion 360]
-- **Filament**: [PLA/ABS/Carbon-fiber]
-- **Functional Features**: Integrated buttons and dials with Arduino support.
-- **Applications**: Ideal for sim racing setups or as a display model for F1 enthusiasts.
-
-Feel free to explore the images and project files below. The 3D models and assembly instructions can be found in the repository.
+- **Software Used**: Fusion 360
+- **Filament**: ABS filament
+- **Functional Features**: Integrated buttons and dials with Arduino support to sync to PC as Joystick.
+- **Applications**: Ideal for sim racing setups or as a display model.
 
 ---
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/f1_wheel_display.jpg" title="Final 3D Printed Steering Wheel on Display" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/f1_wheel_detail.jpg" title="Close-up of Buttons and Dials" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Left: The final 3D printed F1 steering wheel on display. Right: A close-up of the functional buttons and dials.
-</div>
