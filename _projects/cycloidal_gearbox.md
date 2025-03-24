@@ -50,12 +50,13 @@ This project outlines the process of designing and machining a **small cycloidal
 <div class="caption text-center mt-2">
     Left: CNC milling in action. Right: The machined components, ready for assembly.
 </div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/gearbox1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/gearbox2.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/gearbox2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
