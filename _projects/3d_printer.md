@@ -52,5 +52,63 @@ The frame is constructed using **aluminum extrusions**, providing a lightweight 
     Left: The frame design sketch. Middle: The assembly process. Right: The completed printer frame.
 </div>
 
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp5.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp6.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp7.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp8.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp9.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp10.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp11.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp12.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp13.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp14.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp15.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp16.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp17.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/3dp18.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
 ---
 
