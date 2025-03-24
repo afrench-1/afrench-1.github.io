@@ -17,7 +17,7 @@ This project outlines the process of designing and machining a **small cycloidal
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_gearbox_final.jpg" title="Completed Cycloidal Gearbox" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cycloidal_final.jpg" title="Completed Cycloidal Gearbox" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -40,9 +40,6 @@ This project outlines the process of designing and machining a **small cycloidal
 
 <div class="row">
     <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining1.jpg" title="CNC Milling Process" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining2.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
@@ -52,6 +49,17 @@ This project outlines the process of designing and machining a **small cycloidal
 
 <div class="caption text-center mt-2">
     Left: CNC milling in action. Right: The machined components, ready for assembly.
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/gearbox1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/gearbox2.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
 </div>
 
 <div class="row">
@@ -70,27 +78,4 @@ This project outlines the process of designing and machining a **small cycloidal
     Left: Drilling 1.6mm hole. Right: Thread milled holes at M2.
 </div>
 
----
-
-<div class="row">
-    <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly1.jpg" title="Assembling the Gearbox" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly2.jpg" title="Complete Gearbox Assembly" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption text-center mt-2">
-    Left: Assembling the gearbox components. Right: The complete cycloidal gearbox ready for testing.
-</div>
-
-<div class="row">
-    <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly1.jpg" title="Assembling the Gearbox" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_assembly2.jpg" title="Complete Gearbox Assembly" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 ---
