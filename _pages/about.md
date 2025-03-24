@@ -20,12 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 
 <p class="justify-text">
-  As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from the University of Warwick, 
-  I specialise in process optimization and innovative manufacturing solutions within the automotive sector. 
-  With hands-on experience from multiple vehicle launches, and implementing lean manufacturing principles, 
-  I have successfully contributed to various projects that enhance productivity and quality in production environments. 
-  I am working towards certification in Lean Six Sigma Green Belt, and I am a member of the IET, continually 
-  seeking opportunities for professional growth and skill development in the dynamic field of automotive.
+  As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from the University of Warwick, I specialise in process optimization and innovative manufacturing solutions within the automotive sector. With hands-on experience from multiple vehicle launches, and implementing lean manufacturing principles, I have successfully contributed to various projects that enhance productivity and quality in production environments. I am working towards certification in Lean Six Sigma Green Belt, and I am a member of the IET, continually seeking opportunities for professional growth and skill development in the dynamic field of automotive.
 </p>
 
 <h2 style="text-align: left; margin-top: 20px; margin-bottom: 20px;">
