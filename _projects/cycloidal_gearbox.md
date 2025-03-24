@@ -27,10 +27,10 @@ This project outlines the process of designing and machining a **small cycloidal
 
 <div class="row">
     <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_design1.jpg" title="3D Model of Cycloidal Gearbox" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cad1gearbox.jpg" title="3D Model of Cycloidal Gearbox" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_design2.jpg" title="Cycloidal Disc Detail" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cad2gearbox.jpg" title="Cycloidal Disc Detail" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -40,10 +40,10 @@ This project outlines the process of designing and machining a **small cycloidal
 
 <div class="row">
     <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining2.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining1.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/fixture.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cycloidal_machining2.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -63,9 +63,6 @@ This project outlines the process of designing and machining a **small cycloidal
 </div>
 
 <div class="row">
-    <div class="col-sm-6 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img/threadmill0.jpg" title="CNC Milling Process" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm-6 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/threadmill1.jpg" title="Machined Components" class="img-fluid rounded z-depth-1" %}
     </div>
