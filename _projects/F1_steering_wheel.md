@@ -2,7 +2,7 @@
 layout: post
 title: AMG F1 Steering Wheel
 date: 2024-10-10 00:00:00
-description: A detailed guide to designing, 3D printing, and assembling a replica Formula 1 steering wheel. <br /> <i class="fa-solid fa-calendar fa-sm"></i> 2022
+description: A detailed guide to designing, 3D printing, and assembling a replica Formula 1 steering wheel.
 img: assets/img/f1wheel.jpg
 importance: 3
 category: 3d-printing
@@ -98,7 +98,7 @@ Creating this 3D printed replica F1 steering wheel was a challenging yet rewardi
 
 #### Key Features of this Project:
 
-- **Software Used**: [Fusion 360, Blender, or SolidWorks]
+- **Software Used**: [Fusion 360]
 - **Filament**: [PLA/ABS/Carbon-fiber]
 - **Functional Features**: Integrated buttons and dials with Arduino support.
 - **Applications**: Ideal for sim racing setups or as a display model for F1 enthusiasts.
@@ -119,27 +119,3 @@ Feel free to explore the images and project files below. The 3D models and assem
 <div class="caption">
     Left: The final 3D printed F1 steering wheel on display. Right: A close-up of the functional buttons and dials.
 </div>
-
-## Leave Your Feedback
-
-Please share your feedback or ask any questions in the comments section below.
-
----
-
-### Code and 3D Models
-
-The 3D model files, electronics wiring guide, and code for the buttons are available on [GitHub link] or another repository platform.
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/f1_wheel_display.jpg" title="Final 3D Printed Steering Wheel on Display" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/f1_wheel_detail.jpg" title="Close-up of Buttons and Dials" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
