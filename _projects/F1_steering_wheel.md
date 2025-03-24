@@ -24,24 +24,24 @@ The first step was creating a 3D model of the F1 steering wheel. I used Fusion 3
 <div class="container mt-3">
     <div class="row">
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/cad1.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad1.png" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/cad2.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad2.png" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/cad3.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad3.png" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/cad4.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad4.png" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
 
 <div class="caption">
-    Left Top: The exploded view 3D model of the F1 steering wheel.Right Top: CAD model coloured by part, front view. Left Bottom: CAD in 3D rendering software. Right Bottom:  CAD model coloured by part, back view.
+    Left Top: The exploded view 3D model of the F1 steering wheel. Right Top: CAD model coloured by part, front view. Left Bottom: CAD in 3D rendering software. Right Bottom:  CAD model coloured by part, back view.
 </div>
 
 ### 3D Printing and Assembly
