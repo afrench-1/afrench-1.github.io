@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
   As a dedicated Manufacturing Engineer with a BEng (Bachelor of Engineering) from the University of Warwick, I specialise in process optimization and innovative manufacturing solutions within the automotive sector. With hands-on experience from multiple vehicle launches, and implementing lean manufacturing principles, I have successfully contributed to various projects that enhance productivity and quality in production environments. I am continually seeking opportunities for professional growth and skill development in the dynamic field of manufacturing.
 </p>
 
-<h2 style="text-align: left; margin-top: 170px; margin-bottom: 20px;">
+<h2 style="text-align: left; margin-top: 260px; margin-bottom: 20px;">
   <a href="/projects/" style="color: inherit">projects</a>
 </h2>
 
@@ -56,7 +56,7 @@ social: true # includes social icons at the bottom of the page
     .swiper-container {
       width: 60%; /* Make the container narrower to allow slides to peek */
       max-width: 900px;
-      padding-top: 5px;
+      padding-top: 30px;
       padding-bottom: 50px;
       overflow: visible; /* Allow overflow to show part of adjacent slides */
       margin: 0 auto; /* Center the swiper on the page */
