@@ -93,6 +93,9 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Swiper -->
 <div class="swiper-container">
+  <h2 style="text-align: left; margin-top: 20px; margin-bottom: 20px;">
+    <a href="/projects/" style="color: inherit">projects</a>
+  </h2>
   <div class="swiper-wrapper">
       <!-- Each image wrapped in a clickable <a> tag with link to a project -->
       <div class="swiper-slide">
