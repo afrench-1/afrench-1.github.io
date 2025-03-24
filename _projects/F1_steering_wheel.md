@@ -24,24 +24,24 @@ The first step was creating a 3D model of the F1 steering wheel. I used Fusion 3
 <div class="container mt-3">
     <div class="row">
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_modeling.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad1.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_slicing.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad2.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_printing.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad3.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-md-6 mb-3">
-            {% include figure.liquid loading="eager" path="assets/img/f1_wheel_finishing.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/cad4.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
 
 <div class="caption">
-    Left: The 3D model of the F1 steering wheel. Middle: The model sliced and prepared for printing. Right: The printing process in action.
+    Left Top: The exploded view 3D model of the F1 steering wheel.Right Top: CAD model coloured by part, front view. Left Bottom: CAD in 3D rendering software. Right Bottom:  CAD model coloured by part, back view.
 </div>
 
 ### 3D Printing and Assembly
@@ -88,6 +88,31 @@ For the buttons and dials, I used basic electronics to create a functional steer
 
 <div class="caption">
     Left: Wiring the buttons and dials to a controller. Right: The final assembled F1 steering wheel ready for simulation racing.
+</div>
+
+### Button Detailing
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/button1.jpg" title="3D Modeling of Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/button2.jpg" title="Slicing the 3D Model for Printing" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/button3.jpg" title="3D Printing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6 mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/button4.jpg" title="Finishing the Steering Wheel" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
+<div class="caption">
+    Button detailing
 </div>
 
 ### Final Thoughts
