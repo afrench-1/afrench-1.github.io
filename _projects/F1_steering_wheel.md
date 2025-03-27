@@ -71,7 +71,7 @@ Once the design was ready, I printed the parts using a ABS plastic to ensure the
 
 ### Custom PCB Distribution Board
 
-Due to the high number of controls on the wheel the wiring would be extremely complex, especially as I require a button matrix of diodes to consolidate the number of buttons into a manageable quantity for an Arduino Nano to process. To resolve this issue I decided to design a custom PCB wiring breakout board. This was the first time exploring PCB design and was a steep learning curve. Using video tutorials I was able to design my own custom board that fit my requirements. 
+Due to the high number of controls on the wheel the wiring would be extremely complex, especially as it requires a button matrix of diodes to consolidate the number of buttons into a manageable quantity for an Arduino Nano to process. To resolve this issue I decided to design a custom PCB wiring breakout board. This was the first time exploring PCB design and was a steep learning curve. Using video tutorials I was able to design my own custom board that fit my requirements. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

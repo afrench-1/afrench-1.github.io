@@ -61,7 +61,7 @@ This project provided a huge amount of learning about PCB design and electronics
 #### Key Features of this Project:
 
 - **Software Used**: JLC PCB offer a webbased PCB design tool EASYEDA, it performs similar to autodesk eagle and integrates well into the PCB ordering process from JLCPCB. 
-- **PCB Layers**: 2-layer
+- **PCB Layers**: 2-layer board
 - **Applications**: Brushless motor controller utilising Field Oriented Control
 - **Challenges**: Software flashing was challenging, this is likely due to using a non-genuine ST-Link and protections are casuing failiures during the flashing process. 
 
