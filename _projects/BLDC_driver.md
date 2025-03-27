@@ -89,5 +89,3 @@ Please share your feedback or ask questions using the comments section below!
 ### Code and Schematics
 
 The design files and firmware for this PCB are available on Thomas Goddens <a href="https://github.com/LegoYoda112/BLDC_Driver">github</a> for download.
-
-{% endraw %}
